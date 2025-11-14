@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+int main(){
+    int a,b;
+    cout<<"enter the value for a and b ";
+    cin>>a>>b;
+    cout<<", the increment value of a is "<<++a;
+    cout<<", the increment value of b is "<<++b;
+    cout<<", the decrement value of a is "<<--a;
+    cout<<", the decrement value of b is "<<--b;
+    return 0;
+}
