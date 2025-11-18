@@ -1,5 +1,5 @@
 Day 1: Using Arithmetic operators (+,-,*,/)  
-Day 2: Using Increment and decrement operators (++,--)  
+Day 2: Using Increment and decrement operators (++,--)(pre and post)  
 Day 3: Using Logical operators (&&,||)  
 Day 4: Using Relational operators (==,<,>,<=,=>,!=)  
 Day 5: Using Assignment operators (=,+=,-=,*=,/=,%=,&=,|=)  
